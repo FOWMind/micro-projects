@@ -4,8 +4,8 @@ Simple "websites" maked with HTML, CSS &amp; JavaScript.
 By [**FOW Mind**](https://github.com/FOWMind)
 
 Links:
-[**Challenge**](https://alwl1.github.io/reto)
+[**Challenge**](https://fowmind.github.io/reto)
 /
-[**Coffees**](https://alwl1.github.io/cafeteria)
+[**Coffees**](https://fowmind.github.io/cafeteria)
 /
-[**Gym**](https://alwl1.github.io/triny)
+[**Gym**](https://fowmind.github.io/triny)
