@@ -1,0 +1,27 @@
+/* FOOTER */
+
+.footer {
+	padding: .5em;
+	background-color: #111;
+	margin-top: 20em;
+}
+
+.footer p {
+	text-align: center;
+	color: #f2f2f2;
+	font-size: 14px;
+}
+
+.footer a {
+	color: #ccc;
+}
+
+.footer a:hover {
+	text-decoration: none;
+}
+
+@media screen and (max-width: 500px) {
+	.footer {
+		margin-top: 10em;
+	}
+}
